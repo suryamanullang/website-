@@ -8,7 +8,7 @@
 
   <html>
 <head>
-     <title>foto Perpustakaan UMA</title>
+    
 </head>
 <body>
 </body>
