@@ -15,5 +15,6 @@
   	<h1 align="center">Foto Perpustakaan UMA<h1>
          <img src="https://uma.ac.id/asset/foto_statis/perpustakaan-uma.JPG" alt="Perpustakan UMA">
     <h1 align="center">Video Perpustakaan UMA<h1>   
+    https://www.youtube.com/embed/VNnEdT5eKw0?si=vmMkp0qACyaPTDuY
     
 
