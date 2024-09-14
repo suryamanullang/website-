@@ -13,7 +13,7 @@
 <body>
 </body>
   	<h1 align="center">Foto Perpustakaan UMA<h1>
-         <img src="perpustakaan.jpg"
+         <img src="https://uma.ac.id/asset/foto_statis/perpustakaan-uma.JPG" alt="Perpustakan UMA">
 </body>
 </html>
 
